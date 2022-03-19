@@ -1,7 +1,5 @@
 //Travis Escovar
 //2/28/2016
-//CIS3360
-//Assign 1
 
 #include <stdio.h>
 #include <string.h>
